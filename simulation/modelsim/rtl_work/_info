@@ -1,0 +1,238 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/USER/OneDrive/Documents/ee214/LAB1/simulation/modelsim
+Ecounter
+Z1 w1664450095
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 1
+R0
+Z4 8C:/Users/USER/OneDrive/Documents/ee214/LAB1/COUNTER.vhd
+Z5 FC:/Users/USER/OneDrive/Documents/ee214/LAB1/COUNTER.vhd
+l0
+L46 1
+V`l:ShkWlfYWFVlnP5zGGB2
+!s100 _`BQMKG_B55b<@a<XoSQ^3
+Z6 OV;C;2020.1;71
+31
+Z7 !s110 1664450389
+!i10b 1
+Z8 !s108 1664450389.000000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/USER/OneDrive/Documents/ee214/LAB1/COUNTER.vhd|
+Z10 !s107 C:/Users/USER/OneDrive/Documents/ee214/LAB1/COUNTER.vhd|
+!i113 1
+Z11 o-93 -work work
+Z12 tExplicit 1 CvgOpt 0
+Astruct
+R2
+R3
+DEx4 work 7 counter 0 22 `l:ShkWlfYWFVlnP5zGGB2
+!i122 1
+l57
+L50 27
+VAzFjCGNOm5knC1En^2Nno3
+!s100 ;;90;ioIJ8Kg8Q]jMbz:m3
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Edff_reset
+R1
+R2
+R3
+!i122 1
+R0
+R4
+R5
+l0
+L28 1
+VPMT5mRI8?IW_Mb3E__XGn1
+!s100 NNa30eXK1bdBe8OTSaB1a2
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Abehav
+R2
+R3
+DEx4 work 9 dff_reset 0 22 PMT5mRI8?IW_Mb3E__XGn1
+!i122 1
+l31
+L30 11
+VNBY[gk_g@KbT88QhjS`n23
+!s100 MdGeQg]JSiP8ZCX[WV>R71
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Edff_set
+R1
+R2
+R3
+!i122 1
+R0
+R4
+R5
+l0
+L12 1
+VI7DzG20f69S8K1fA`G0CI2
+!s100 GnnLbz`I_3fSDYm_FkV193
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Abehav
+R2
+R3
+DEx4 work 7 dff_set 0 22 I7DzG20f69S8K1fA`G0CI2
+!i122 1
+l15
+L14 11
+VJcM5bhHkRFIL8?P[9mlEa2
+!s100 9=6ZRD3FFcoa7MjHW?;h41
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Edut
+Z13 w1664449811
+R2
+R3
+!i122 0
+R0
+Z14 8C:/Users/USER/OneDrive/Documents/ee214/LAB1/DUT.vhdl
+Z15 FC:/Users/USER/OneDrive/Documents/ee214/LAB1/DUT.vhdl
+l0
+L7 1
+V86:JQHibkiI]_8g=d]io53
+!s100 d1:GN;^H<kTI8lz9nb_0:3
+R6
+31
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-93|-work|work|C:/Users/USER/OneDrive/Documents/ee214/LAB1/DUT.vhdl|
+Z17 !s107 C:/Users/USER/OneDrive/Documents/ee214/LAB1/DUT.vhdl|
+!i113 1
+R11
+R12
+Adutwrap
+R2
+R3
+DEx4 work 3 dut 0 22 86:JQHibkiI]_8g=d]io53
+!i122 0
+l17
+L12 19
+VcP[^15_VVla[fEea8NR233
+!s100 29NSoj<h;1>T^joPcPF>;0
+R6
+31
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Pflipflops
+R2
+R3
+!i122 1
+R1
+R0
+R4
+R5
+l0
+L3 1
+V<B[@b31IaHo;^iHaN2:Cm0
+!s100 DOe:b7AGBQTBz1c5JgcHM3
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Etestbench
+Z18 w1664449519
+R3
+R2
+!i122 2
+R0
+Z19 8C:/Users/USER/OneDrive/Documents/ee214/LAB1/Testbench.vhdl
+Z20 FC:/Users/USER/OneDrive/Documents/ee214/LAB1/Testbench.vhdl
+l0
+L7 1
+V]iKK_Z9L:G9B:i8c]3eFH0
+!s100 bWf8kl8zb90X@P1m>V^K20
+R6
+31
+R7
+!i10b 1
+R8
+Z21 !s90 -reportprogress|300|-93|-work|work|C:/Users/USER/OneDrive/Documents/ee214/LAB1/Testbench.vhdl|
+!s107 C:/Users/USER/OneDrive/Documents/ee214/LAB1/Testbench.vhdl|
+!i113 1
+R11
+R12
+Abehave
+R3
+R2
+DEx4 work 9 testbench 0 22 ]iKK_Z9L:G9B:i8c]3eFH0
+!i122 2
+l69
+L9 132
+V>]NX9`dln_bCgbc9;YCoW0
+!s100 [Ac[M2SOdaeGIlfL>LBlY1
+R6
+31
+R7
+!i10b 1
+R8
+R21
+Z22 !s107 C:/Users/USER/OneDrive/Documents/ee214/LAB1/Testbench.vhdl|
+!i113 1
+R11
+R12
